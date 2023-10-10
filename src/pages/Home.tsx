@@ -7,7 +7,7 @@ function home() {
         className='flex flex-row justify-center mx-auto bg-cover bg-fixed'
         >
            <div className='flex place-items-start align-top h-screen pt-5'>
-                <h3 className='p-5 bg-black bg-opacity-50 text-white rounded'>Welcome to the Biggest Digital Library of the World</h3>
+                <h3 className='p-5 bg-black bg-opacity-50 text-white rounded'>Welcome to the Biggest Digital Library in the World</h3>
            </div>
     </div>
   )
